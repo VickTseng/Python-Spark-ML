@@ -1,1 +1,1 @@
-# ML Homework reposibory
+# ML Homework repository
